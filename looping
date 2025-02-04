@@ -1,0 +1,71 @@
+#---------------------------------------------------------DATE 30/01/2025---------------------------------------------------------
+#WAP to print 20 times 'I AM BEST' 
+# i=0
+# while i <=20:
+#     print("I am best.",i)
+#     i+=1
+
+#WAP to print first 10 natural numbers.
+# i=1
+#  while i<=10:
+#    print(i,end='')
+#     i+=1
+
+#WAP to print even num 1 to 100
+# i=2
+# while i<=100:
+#     print(i,end=' ')
+#     i+=2
+
+#WAP to print num which are diviseble by 5 from m to n 
+# m=10
+# while m<=50:
+#     if m%5==0:
+#         print(m,end=' ')
+#     m+=1
+
+# m=0
+# n=int(input("enter num:"))
+# while m<n:
+#     if m%5==0:
+#         print(m)
+#     m+=1
+
+
+#WAP if a num is divisible by 3, 5 print square of it.
+# i=0
+# while i<=100:
+#     if i%15==0:
+#         print(i**2)
+#     i+=1
+
+
+#---------------------------------------------------DATE 04/02/2025------------------------------------------------------------
+#WAP to print the sum of first 10 natural number 
+# i=1
+# sum=0
+# while i<=10:
+#     sum+=i
+#     i+=1
+# print(sum)
+    
+#WAP to print the product of first 10 natural number 
+# i=1
+# product=1
+# while i<=10:
+#     product*=i
+#     i+=1
+#     print(product)
+
+#WAP to reverse the number.
+# num=int(input("Enter the num:"))
+# rev=0
+# while num!=0:
+#     ld=num%10
+#     rev=rev*10+ld
+#     num=num//10
+# print("Reverse of num is:",rev)
+
+#WAPP to extract all the uppercase from the given string.
+# a=input("Enter string:")
+# while 
